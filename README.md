@@ -1,1 +1,4 @@
+<img width="812" height="289" alt="image" src="https://github.com/user-attachments/assets/8b5916ad-1a78-4415-aa49-22e57bf921bc" />
+Se o programa demorasse 10 segundos para finalizar e permanecesse com a tela totalmente parada, sem exibir nenhuma mensagem de progresso, o usuário provavelmente pensaria que o sistema travou, apresentou erro ou simplesmente não está funcionando. Isso gera insegurança, frustração e pode levar o usuário a encerrar o programa antes da conclusão.
+A visibilidade de status melhora a Experiência do Usuário (UX) porque mantém o usuário informado sobre o que está acontecendo durante o processamento. Ao exibir mensagens como “[PROCESSANDO]”, o sistema transmite que está ativo e executando tarefas, mesmo que leve algum tempo para concluir. Esse feedback reduz a ansiedade, aumenta a confiança no sistema e torna a interação mais clara e previsível.
 # una-ihcux-lista03
